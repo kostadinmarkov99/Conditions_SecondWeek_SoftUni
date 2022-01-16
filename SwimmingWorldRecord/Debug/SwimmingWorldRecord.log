@@ -1,0 +1,3 @@
+﻿  SwimmingWorldRecord.cpp
+C:\Users\PC\source\repos\Conditions_SecondWeek_SoftUni\SwimmingWorldRecord\SwimmingWorldRecord.cpp(14,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SwimmingWorldRecord.vcxproj -> C:\Users\PC\source\repos\Conditions_SecondWeek_SoftUni\Debug\SwimmingWorldRecord.exe
